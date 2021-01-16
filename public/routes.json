@@ -1,0 +1,30 @@
+[
+  {
+    "name": "g",
+    "title": "GitHub",
+    "description": "Open-source work",
+    "public": true,
+    "url": "https://github.com/googol88"
+  },
+  {
+    "name": "c",
+    "title": "CodePen",
+    "description": "Front-end work, lots of experimental stuff here!",
+    "public": true,
+    "url": "http://codepen.io/googol88"
+  },
+  {
+    "name": "d",
+    "title": "Devpost",
+    "description": "Hackathon projects (there's only one for the time being)",
+    "public": true,
+    "url": "https://devpost.com/googol"
+  },
+  {
+    "name": "r",
+    "title": "Not Rick",
+    "description": "Definitely not a rickroll",
+    "public": true,
+    "url": "https://youtu.be/dQw4w9WgXcQ"
+  },
+]
